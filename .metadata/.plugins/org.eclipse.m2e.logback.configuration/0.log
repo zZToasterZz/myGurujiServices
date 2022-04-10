@@ -1,0 +1,13 @@
+2020-10-11 18:04:27,009 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-11 18:06:27,982 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.co.srdt:myguruji:0.0.1-SNAPSHOT @ E:\UPD_DEVOPS\AmitSaxena1\myguruji\pom.xml.
+2020-10-11 18:06:42,786 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myguruji/src/main/java
+2020-10-11 18:06:42,787 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myguruji/src/main/resources
+2020-10-11 18:06:42,884 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myguruji/src/main/resources
+2020-10-11 18:06:43,023 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myguruji/src/test/java
+2020-10-11 18:06:44,431 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 32 sec
+2020-10-11 18:06:57,619 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-11 18:06:57,698 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-11 18:06:57,949 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5143 resources
+2020-10-11 18:07:25,191 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-11 18:07:25,192 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\UPD_DEVOPS\AmitSaxena1\myguruji\src\test\resources
+2020-10-11 18:09:25,491 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
